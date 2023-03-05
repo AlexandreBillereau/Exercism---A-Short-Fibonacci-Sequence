@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # A Short Fibonacci Sequence
 
 Welcome to A Short Fibonacci Sequence on Exercism's Rust Track.
